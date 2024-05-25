@@ -1,7 +1,2 @@
-Hello:
-  message: Hello world this is the the config file for the hello service.
-  version: 1.0.0
-  services:
-    - name: hello
-      version: 1.0.0
-      config:
+server:
+  port: 8081
